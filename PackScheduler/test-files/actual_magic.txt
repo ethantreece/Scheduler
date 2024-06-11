@@ -1,0 +1,1 @@
+CSC400,Introduction to magic,001,5,hpotter,10,MW,2200,2300

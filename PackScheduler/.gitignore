@@ -1,0 +1,6 @@
+/.checkstyle
+/.pmd
+/bin/
+/registrar.properites
+/registration_manager_inspection.txt
+/registrar.properties
